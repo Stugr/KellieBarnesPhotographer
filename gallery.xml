@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="330" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="10" stagePadding="30" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="" enableRightClickOpen="" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>img011.jpg</filename>
+</image>
+<image>
+	<filename>img014.jpg</filename>
+</image>
+<image>
+	<filename>img003.jpg</filename>
+</image>
+<image>
+	<filename>img008.jpg</filename>
+</image>
+<!--
+<image>
+	<filename>img004.jpg</filename>
+	<caption><![CDATA[<font face="Verdana" size="14">Chinese Jade</font>]]></caption>	
+</image>
+<image>
+	<filename>img005.jpg</filename>
+	<caption><![CDATA[<font face="Verdana" size="14">Snow Bear</font>]]></caption>	
+</image>-->
+<image>
+	<filename>img006.jpg</filename>
+</image>
+<image>
+	<filename>img007.jpg</filename>
+</image>
+<image>
+	<filename>img001.jpg</filename>
+<!--	<caption><![CDATA[<font face="Verdana" size="14"></font>]]></caption>	-->
+</image>
+<image>
+	<filename>img009.jpg</filename>
+</image>
+<image>
+	<filename>img012.jpg</filename>
+</image>
+<image>
+	<filename>img013.jpg</filename>
+</image>
+<image>
+	<filename>img010.jpg</filename>
+</image>
+<image>
+	<filename>cake.jpg</filename>
+</image>
+<image>
+	<filename>img002.jpg</filename>
+</image>
+</simpleviewerGallery>
